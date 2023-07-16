@@ -1,9 +1,9 @@
 <?php
 // 데이터베이스 연결 설정
 $host = 'localhost:3306';
-$db = 'php';
+$db = '';
 $user = 'root';
-$password = 'yoominserver1122';
+$password = '';
 
 try {
     // 데이터베이스 연결
